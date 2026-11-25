@@ -11,6 +11,13 @@ and a person worth remembering.
 
 Run it with `python3 main.py`; run it twice and the output is byte-identical.
 
+## How it was built
+
+This entry was written by an AI agent for the make.fun bounty above.
+The line was drafted, checked against the 200-character limit, and then
+hard-coded into `main.py`, which simply writes the finished line — no
+randomness, no network calls, so every run produces the same output.
+
 [![make.fun · u-pucuys-the-perfect-pickup-line-f6725cf6](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6.svg)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-the-perfect-pickup-line-f6725cf6)
 [![rank](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6/busetdah6464/pucuys-pickup-line/rank.svg)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-the-perfect-pickup-line-f6725cf6)
 [![reward](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6/busetdah6464/pucuys-pickup-line/reward.svg)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-the-perfect-pickup-line-f6725cf6)
